@@ -1,28 +1,28 @@
-# clubsystem
+# 社团活动报名系统前端
 
-This template should help get you started developing with Vue 3 in Vite.
+这是一个宁德师范学院计算机协会的社团活动报名系统前端实现
 
-## Recommended IDE Setup
+[后端项目ClubSystem](https://github.com/lacimoc/ClubSystem/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 如何使用
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+- 安装依赖
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 开发服务器
+
+- 运行开发服务器
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 构建静态网页
+
+- 运行构建
 
 ```sh
 npm run build
